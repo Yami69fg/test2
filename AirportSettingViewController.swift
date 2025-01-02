@@ -1,7 +1,7 @@
 import UIKit
 import SnapKit
 
-class AirportSetting: UIViewController {
+class AirportSettingViewController: UIViewController {
 
     private let backgroundImageView: UIImageView = {
         let imageView = UIImageView(image: UIImage(named: "BGAirport"))
